@@ -1,0 +1,65 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\Joao v\\CasaMateriaisDeConstrucoes\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\Joao v\\CasaMateriaisDeConstrucoes\\wwwroot\\img\\cimento1.png",
+      "PackagePath": "staticwebassets\\img\\cimento1.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\Joao v\\CasaMateriaisDeConstrucoes\\wwwroot\\img\\cimento2.png",
+      "PackagePath": "staticwebassets\\img\\cimento2.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\Joao v\\CasaMateriaisDeConstrucoes\\wwwroot\\img\\cimento3.png",
+      "PackagePath": "staticwebassets\\img\\cimento3.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\Joao v\\CasaMateriaisDeConstrucoes\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\Joao v\\CasaMateriaisDeConstrucoes\\wwwroot\\img\\main1.png",
+      "PackagePath": "staticwebassets\\img\\main1.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\Joao v\\CasaMateriaisDeConstrucoes\\wwwroot\\img\\main2.png",
+      "PackagePath": "staticwebassets\\img\\main2.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\Joao v\\CasaMateriaisDeConstrucoes\\wwwroot\\img\\main3.png",
+      "PackagePath": "staticwebassets\\img\\main3.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\Joao v\\CasaMateriaisDeConstrucoes\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\Joao v\\CasaMateriaisDeConstrucoes\\wwwroot\\produtos.html",
+      "PackagePath": "staticwebassets\\produtos.html"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\Joao v\\CasaMateriaisDeConstrucoes\\wwwroot\\video\\video-main.mp4",
+      "PackagePath": "staticwebassets\\video\\video-main.mp4"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CasaMateriaisDeConstrucao.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CasaMateriaisDeConstrucao.props",
+      "PackagePath": "build\\CasaMateriaisDeConstrucao.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CasaMateriaisDeConstrucao.props",
+      "PackagePath": "buildMultiTargeting\\CasaMateriaisDeConstrucao.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CasaMateriaisDeConstrucao.props",
+      "PackagePath": "buildTransitive\\CasaMateriaisDeConstrucao.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
