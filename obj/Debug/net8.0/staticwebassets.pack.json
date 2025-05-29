@@ -5,6 +5,30 @@
       "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
+      "Id": "C:\\Users\\Aluno\\Documents\\Joao v\\CasaMateriaisDeConstrucoes\\wwwroot\\img\\areia.png",
+      "PackagePath": "staticwebassets\\img\\areia.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\Joao v\\CasaMateriaisDeConstrucoes\\wwwroot\\img\\cabos.png",
+      "PackagePath": "staticwebassets\\img\\cabos.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\Joao v\\CasaMateriaisDeConstrucoes\\wwwroot\\img\\canos.png",
+      "PackagePath": "staticwebassets\\img\\canos.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\Joao v\\CasaMateriaisDeConstrucoes\\wwwroot\\img\\ceramica.png",
+      "PackagePath": "staticwebassets\\img\\ceramica.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\Joao v\\CasaMateriaisDeConstrucoes\\wwwroot\\img\\chaves.png",
+      "PackagePath": "staticwebassets\\img\\chaves.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\Joao v\\CasaMateriaisDeConstrucoes\\wwwroot\\img\\chuveiros.png",
+      "PackagePath": "staticwebassets\\img\\chuveiros.png"
+    },
+    {
       "Id": "C:\\Users\\Aluno\\Documents\\Joao v\\CasaMateriaisDeConstrucoes\\wwwroot\\img\\cimento1.png",
       "PackagePath": "staticwebassets\\img\\cimento1.png"
     },
@@ -15,6 +39,38 @@
     {
       "Id": "C:\\Users\\Aluno\\Documents\\Joao v\\CasaMateriaisDeConstrucoes\\wwwroot\\img\\cimento3.png",
       "PackagePath": "staticwebassets\\img\\cimento3.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\Joao v\\CasaMateriaisDeConstrucoes\\wwwroot\\img\\cx.png",
+      "PackagePath": "staticwebassets\\img\\cx.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\Joao v\\CasaMateriaisDeConstrucoes\\wwwroot\\img\\esmalte.png",
+      "PackagePath": "staticwebassets\\img\\esmalte.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\Joao v\\CasaMateriaisDeConstrucoes\\wwwroot\\img\\fios.png",
+      "PackagePath": "staticwebassets\\img\\fios.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\Joao v\\CasaMateriaisDeConstrucoes\\wwwroot\\img\\furadeiras.png",
+      "PackagePath": "staticwebassets\\img\\furadeiras.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\Joao v\\CasaMateriaisDeConstrucoes\\wwwroot\\img\\inerruptores.png",
+      "PackagePath": "staticwebassets\\img\\inerruptores.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\Joao v\\CasaMateriaisDeConstrucoes\\wwwroot\\img\\janela aluminio.png",
+      "PackagePath": "staticwebassets\\img\\janela aluminio.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\Joao v\\CasaMateriaisDeConstrucoes\\wwwroot\\img\\janela de vidro.png",
+      "PackagePath": "staticwebassets\\img\\janela de vidro.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\Joao v\\CasaMateriaisDeConstrucoes\\wwwroot\\img\\janela madeira.png",
+      "PackagePath": "staticwebassets\\img\\janela madeira.png"
     },
     {
       "Id": "C:\\Users\\Aluno\\Documents\\Joao v\\CasaMateriaisDeConstrucoes\\wwwroot\\img\\logo.png",
@@ -31,6 +87,54 @@
     {
       "Id": "C:\\Users\\Aluno\\Documents\\Joao v\\CasaMateriaisDeConstrucoes\\wwwroot\\img\\main3.png",
       "PackagePath": "staticwebassets\\img\\main3.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\Joao v\\CasaMateriaisDeConstrucoes\\wwwroot\\img\\martelo.png",
+      "PackagePath": "staticwebassets\\img\\martelo.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\Joao v\\CasaMateriaisDeConstrucoes\\wwwroot\\img\\porcelanato.png",
+      "PackagePath": "staticwebassets\\img\\porcelanato.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\Joao v\\CasaMateriaisDeConstrucoes\\wwwroot\\img\\porta de alumineo.png",
+      "PackagePath": "staticwebassets\\img\\porta de alumineo.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\Joao v\\CasaMateriaisDeConstrucoes\\wwwroot\\img\\porta de aço.png",
+      "PackagePath": "staticwebassets\\img\\porta de aço.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\Joao v\\CasaMateriaisDeConstrucoes\\wwwroot\\img\\porta madeira.png",
+      "PackagePath": "staticwebassets\\img\\porta madeira.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\Joao v\\CasaMateriaisDeConstrucoes\\wwwroot\\img\\revestimento.png",
+      "PackagePath": "staticwebassets\\img\\revestimento.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\Joao v\\CasaMateriaisDeConstrucoes\\wwwroot\\img\\tijolo.png",
+      "PackagePath": "staticwebassets\\img\\tijolo.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\Joao v\\CasaMateriaisDeConstrucoes\\wwwroot\\img\\tintas.png",
+      "PackagePath": "staticwebassets\\img\\tintas.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\Joao v\\CasaMateriaisDeConstrucoes\\wwwroot\\img\\torneiras.png",
+      "PackagePath": "staticwebassets\\img\\torneiras.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\Joao v\\CasaMateriaisDeConstrucoes\\wwwroot\\img\\valvula metal.png",
+      "PackagePath": "staticwebassets\\img\\valvula metal.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\Joao v\\CasaMateriaisDeConstrucoes\\wwwroot\\img\\valvulas.png",
+      "PackagePath": "staticwebassets\\img\\valvulas.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\Joao v\\CasaMateriaisDeConstrucoes\\wwwroot\\img\\vernizes.png",
+      "PackagePath": "staticwebassets\\img\\vernizes.png"
     },
     {
       "Id": "C:\\Users\\Aluno\\Documents\\Joao v\\CasaMateriaisDeConstrucoes\\wwwroot\\index.html",

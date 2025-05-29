@@ -1,51 +1,62 @@
 .top-info {
-            background-color: #001f3f;
-            color: white;
-            font-size: 12px;
-            padding: 5px 15px;
-        }
-        .top-info span {
-            margin-right: 15px;
-        }
+    background-color: #001f3f;
+    color: white;
+    font-size: 12px;
+    padding: 5px 15px;
+}
 
-        .logo {
-            height: 40px;
-        }
+.top-info span {
+    margin-right: 15px;
+}
 
-        .search-box {
-            width: 100%;
-            max-width: 500px;
-        }
+.logo {
+    height: 40px;
+}
 
-        .icon-btn {
-            font-size: 1.3rem;
-            margin-left: 15px;
-            cursor: pointer;
-        }
+.search-box {
+    width: 100%;
+    max-width: 500px;
+}
 
-        .bottom-menu {
-            background-color: #f8f9fa;
-            border-top: 1px solid #ddd;
-            align-self: center;
-            align-items: center;
-        }
+.icon-btn {
+    font-size: 1.3rem;
+    margin-left: 15px;
+    cursor: pointer;
+}
 
-        .bottom-menu .nav-link {
-            color: #000;
-            font-size: 14px;
-            margin-right: 20px;
-        }
+.bottom-menu {
+    background-color: #f8f9fa;
+    border-top: 1px solid #ddd;
+    align-self: center;
+    align-items: center;
+}
 
-        .fidelidade {
-            color: #007bff;
-            font-weight: 600;
-        }
+.bottom-menu .nav-link {
+    color: #000;
+    font-size: 14px;
+    margin-right: 20px;
+}
 
-        @media (max-width: 768px) {
-            .search-box {
-                margin: 10px 0;
-            }
-        }
-        #main-text {
-            text-align: justify;
-        }
+.fidelidade {
+    color: #007bff;
+    font-weight: 600;
+}
+
+@media (max-width: 768px) {
+    .search-box {
+        margin: 10px 0;
+    }
+}
+
+#main-text {
+    text-align: justify;
+}
+
+.img-empresa-antiga {
+    border-radius: 50%;
+    width: 220px;
+    height: 220px;
+    object-fit: cover;
+    display: block;
+    margin: 24px auto 0 auto;
+}
